@@ -1,9 +1,6 @@
 
- <div align="center" dir="">
- 
- 
- 
- 
+ <div align="center" dir="center
+ ">
  
   
  <div>
