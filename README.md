@@ -1,5 +1,5 @@
 
- <div align="center" dir="center">
+ <div align="center" dir="">
  
   
  <div>
